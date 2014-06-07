@@ -236,7 +236,7 @@ these macros are defined, the boot loader uses them.
  */
 
 #define AUTO_EXIT_NO_USB_MS    0
-#define AUTO_EXIT_MS           5000
+#define AUTO_EXIT_MS           3000
 
  /*
  *	Defines the setting of the RC-oscillator calibration after quitting the bootloader. (OSCCAL)
